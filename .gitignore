@@ -1,1 +1,26 @@
-/bin/
+# Eclipse specific files
+.settings/
+.classpath
+.project
+bin/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Java archive files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.swp
+*~
+*.bak
+*.tmp
